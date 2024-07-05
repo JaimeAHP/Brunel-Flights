@@ -1,1 +1,3 @@
-This is part of a java application for booking flights, made as part of a group project in my first year of university.
+This is part of a java application for Brunel City Airport (a fictitious airport), made as part of a group project in my first year of university. This app was made in the Eclipse IDE, using jFrame. This contains the code for my section which was responsible for selecting the departure and return flight.
+
+This repository contains a csv file containing the test data used for the application. This file (Flights2024) is an updated set of data containing flights for the date range 01/08/2024 to 29/04/2025. To use this application you will have to download this csv file along with the code and change the path in the getData() method in the Flights class to the file path for where you store this test data.
